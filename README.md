@@ -1,11 +1,11 @@
-### Hi there 👋 ! I am Yash Bhamare
+### Hi there 👋 ! I am Yash Bhamare ! 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies that help and impacts the masses. \
 🎓 &nbsp;I am currently a CS Grad student at SJSU. \
 🎯 &nbsp;Distributed Systems, Cloud Computing and Machine Learning are my current area of study.\
-🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
+🎨 &nbsp;Designing logos and graphics is my amusement. <sub><sup>(P.S. check the profile picture)</sup></sub>\
 👯 &nbsp;I’m looking to collaborate on open-source projects or research.\
 📫 &nbsp;You can shoot me an email at bhamare.yashd@gmail.com! I regularly check mails.
 
