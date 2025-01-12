@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies that help and impacts the masses. \
-🎓 &nbsp;I am currently a CS Grad student at SJSU. \
+🎓 &nbsp;I graduates MS CS from SJSU in 2024. \
 🎯 &nbsp;Distributed Systems, Cloud Computing and Machine Learning are my current area of study.\
 🎨 &nbsp;Designing logos and graphics is my amusement. <sub><sup>(P.S. check the profile picture)</sup></sub>\
 👯 &nbsp;I’m looking to collaborate on open-source projects or research.\
