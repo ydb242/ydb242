@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies that help and impacts the masses. \
-🎓 &nbsp;I graduates MS CS from SJSU in 2024. \
+🎓 &nbsp;I graduated MS CS from SJSU in 2024. \
 🎯 &nbsp;Distributed Systems, Cloud Computing and Machine Learning are my current area of study.\
 🎨 &nbsp;Designing logos and graphics is my amusement. <sub><sup>(P.S. check the profile picture)</sup></sub>\
 👯 &nbsp;I’m looking to collaborate on open-source projects or research.\
@@ -14,7 +14,8 @@
 Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a SSD Firmware Intern in July 2019, and subsequently, in July 2020, I got promoted as an Software Engineer in Cloud Systems.\
 🔭 I have worked on an exciting project, [CORTX](https://github.com/Seagate/cortx), which is their first open-source distributed object storage.
 Find my work at Seagate and contribution to the CORTX community at [Github profile](https://github.com/ydb242).
-
+I have interned with Snowflake and Nokia in their Bay area offices.
+Currently, I am working for Oracle with their Globally Distributed Databases team.
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
 
 ### 🛠 &nbsp;Tech Stack
